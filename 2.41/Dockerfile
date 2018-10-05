@@ -1,4 +1,4 @@
-FROM ruby:2.5
+FROM ruby:2.5.1
 
 MAINTAINER Nikita Bulai <bulaj.nikita@gmail.com>
 
